@@ -1,0 +1,27 @@
+### Windows
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+### VS Code
+# Ignorar la carpeta .vscode por completo
+.vscode/
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### Jupyter Checkpoints
+# Ignorar temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
